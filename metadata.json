@@ -1,0 +1,6 @@
+{
+  "name": "Analista de Jurisprudencia Colombiana - Fichas y Precedente Judicial",
+  "description": "Herramienta especializada de análisis jurisprudencial colombiano para la extracción de fichas técnicas con ratio decidendi, obiter dicta, problemas jurídicos, salvamentos de voto y alertas de precedente según la técnica de las Altas Cortes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
